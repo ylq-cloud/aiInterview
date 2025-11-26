@@ -1,0 +1,8 @@
+{
+  "name": "InterviewSage",
+  "description": "AI-driven interview coaching platform frontend with real-time recording and detailed evaluation visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
